@@ -35,7 +35,7 @@
   <label>Bio</label><br><br>
   <textarea name="message" rows="10" cols="30">
     </textarea><br><br>
-    <a href="welcome.html">
+    <a href="https://localhost/tugas-pajum/resources/views/welcome.html">
    <button type="button" >Sign Up</button>
    </a>
 

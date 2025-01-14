@@ -12,7 +12,7 @@
         <h3>Cara Bergabung Ke Media Online</h3>
         <ol>
             <li>Mengunjungi Website ini</li>
-            <li>Mendaftarkan di <a href="form.html">Form Sign Up</a></li>
+            <li>Mendaftarkan di <a href="localhost/tugas-pajum/resources/views/welcome.blade.phpl>Form Sign Up</a></li>
         <li>Selesai</li>
         </ol>
     </head>
